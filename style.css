@@ -112,3 +112,14 @@ section {
     padding-top: 1px;
     margin-top: 1px;
 }
+
+.intro {
+   float: left;
+   padding-top: 120px;
+   height: 260px;
+   width: 49.9%;
+   background-color: rgba(247, 248, 252, 1);
+   box-shadow: 1px;
+  margin-left: 51px;
+
+}
