@@ -142,3 +142,7 @@ h2,  p {
      margin-left: 300px;
     font-family: Lato;
 }
+
+.distinct {
+    font-weight: 900;
+}
