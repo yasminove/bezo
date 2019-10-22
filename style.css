@@ -169,3 +169,8 @@ h2,  p {
    padding-top: 158px;
     margin-left: 1px;
 }
+
+.bio-p {
+    padding-right: 100px;
+    text-align: justify;
+}
