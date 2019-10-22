@@ -160,3 +160,12 @@ h2,  p {
     text-align: center;
     height: 202px;
 }
+
+.bio {
+    float: right;
+    height: 400px;
+    width: 41.3%;
+    margin-right: 60px;
+   padding-top: 158px;
+    margin-left: 1px;
+}
