@@ -146,3 +146,11 @@ h2,  p {
 .distinct {
     font-weight: 900;
 }
+
+.girl {
+    background-image: url(girl.png);
+    height: 379px;
+    float: right;
+    width: 41.4%;
+    margin-right: 60px;
+}
