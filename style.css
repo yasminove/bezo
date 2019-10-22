@@ -227,3 +227,14 @@ h2,  p {
    padding-left: 23px;
    background-color: #f7f8fc;
 }
+
+h3 {
+    text-align: center;
+    color: black;
+    font-weight: 400;
+    padding-top: 40px;
+    font-weight: 500;
+    font-size: 20px;
+    padding-left: 34px;
+
+}
