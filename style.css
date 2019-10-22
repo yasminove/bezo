@@ -121,5 +121,11 @@ section {
    background-color: rgba(247, 248, 252, 1);
    box-shadow: 1px;
   margin-left: 51px;
+}
 
+h2{
+    font-size: 29px;
+    font-weight: 800;
+    font-family: Kommon Grotesk Extended SemiBold;
+     color: #000;
 }
