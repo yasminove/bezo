@@ -136,3 +136,9 @@ p {
     font-size: 13px;
     font-weight: 400;
 }
+
+h2,  p {
+    float: left;
+     margin-left: 300px;
+    font-family: Lato;
+}
