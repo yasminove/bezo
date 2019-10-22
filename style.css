@@ -174,3 +174,11 @@ h2,  p {
     padding-right: 100px;
     text-align: justify;
 }
+
+
+.bio-header{
+    color:  red;
+    padding-right: 20px;
+    color: black;
+    font-weight: 600;
+}
