@@ -238,3 +238,16 @@ h3 {
     padding-left: 34px;
 
 }
+
+
+.box {
+    display: inline-block;
+    margin: 0 1.5%;
+    width: 30%;
+    border: 1px solid #eee;
+    margin-right: 1px;
+    margin-bottom: 15px;
+    height: 145px;
+    background-color: #fff;
+    box-shadow: 2px;
+}
