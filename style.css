@@ -182,3 +182,13 @@ h2,  p {
     color: black;
     font-weight: 600;
 }
+
+.triple {
+    float: left;
+    background-repeat: no-repeat;
+    height: 202px;
+    width: 49.9%;
+    box-shadow: 1px;
+    margin-left: 51px;
+    background-color: #fff;
+}
