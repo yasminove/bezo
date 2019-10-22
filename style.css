@@ -74,3 +74,27 @@ header {
   height: 40px;
   background-color: #fff;
 }
+
+header h1 {
+  text-transform: uppercase;
+  font-weight: 900;
+  margin-left: 300px;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #000;
+    margin-bottom: 1px;
+}
+
+em {
+    color: #54c3ff;
+}
+
+#nav-elements {
+/*    text-align: right; */
+    margin-top: 0;
+    float: right;
+    margin-top: -16px;
+    margin-right: 60px;
+     margin-bottom: 1px;
+    padding-bottom: 23px;
+}
