@@ -154,3 +154,9 @@ h2,  p {
     width: 41.4%;
     margin-right: 60px;
 }
+
+.wrapper {
+    width: 1280px;
+    text-align: center;
+    height: 202px;
+}
