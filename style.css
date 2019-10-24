@@ -360,3 +360,9 @@ a {
     font-family: sans-serif;
     font-weight: 500;
 }
+
+#all-works  a {
+    margin: 0 10px;
+     text-decoration: none;
+
+}
