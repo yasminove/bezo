@@ -364,5 +364,9 @@ a {
 #all-works  a {
     margin: 0 10px;
      text-decoration: none;
+}
 
+a:hover {
+    color: #1db1da;
+    border-bottom: 1px solid #1db1da;
 }
