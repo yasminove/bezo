@@ -345,5 +345,10 @@ a {
     text-decoration: none;
     text-align: center;
     color: grey;
+}
 
+.recent-works {
+    width: 1321px;
+    height: 545px;
+    background-color: #fff;
 }
