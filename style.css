@@ -370,3 +370,11 @@ a:hover {
     color: #1db1da;
     border-bottom: 1px solid #1db1da;
 }
+
+.handle-p {
+    width: 399px;
+    height: 80px;
+    background-color: #fff;
+    margin-left: 502px;
+    margin-top: -5px;
+}
