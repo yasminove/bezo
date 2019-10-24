@@ -378,3 +378,11 @@ a:hover {
     margin-left: 502px;
     margin-top: -5px;
 }
+
+h {
+    margin-top: 20px;
+    font-weight: 500;
+    color: #000;
+    font-size: 14px;
+    margin-left: 30px;
+}
