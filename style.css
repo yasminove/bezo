@@ -441,3 +441,11 @@ button {
     margin-top: 37px;
 
 }
+
+.handle-p {
+    width: 396px;
+    height: 80px;
+    background-color: #fff;
+    margin-left: 504px;
+    margin-top: -5px;
+}
