@@ -393,3 +393,14 @@ h {
     font-weight: 300;
     margin-top: 7px;
 }
+
+button {
+    background-color: #1db1da;
+    color: #fff;
+    float: right;
+    margin-right: 24px;
+    margin-top: -30px;
+    width: 90px;
+    height: 28px;
+    border-radius: 61px;
+}
