@@ -386,3 +386,10 @@ h {
     font-size: 14px;
     margin-left: 30px;
 }
+
+.landing-page {
+    margin-left: 30px;
+    font-size: 13px;
+    font-weight: 300;
+    margin-top: 7px;
+}
