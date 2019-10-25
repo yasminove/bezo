@@ -455,3 +455,10 @@ button {
     width: 187px;
     margin-top: -170px;
 }
+
+.revolver {
+    width: 219px;
+    margin-right: 8px;
+    padding-right: 1px;
+    margin-left: 914px;
+}
