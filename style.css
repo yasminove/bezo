@@ -415,3 +415,9 @@ button {
 .all-imgs {
         margin-left: -30px;
 }
+
+.handle-wrapper {
+    width: 300px;
+    margin-left: 512px;
+    margin-top: 20px;
+}
