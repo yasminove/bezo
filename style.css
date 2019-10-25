@@ -404,3 +404,10 @@ button {
     height: 28px;
     border-radius: 61px;
 }
+
+.border {
+        width: 503px;
+    height: 2px;
+    border-bottom: 1px solid grey;
+    margin-top: 11px;
+}
