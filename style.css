@@ -421,3 +421,11 @@ button {
     margin-left: 512px;
     margin-top: 20px;
 }
+
+.img-p {
+    width: 331px;
+    background-color: red;
+    margin-top: 12px;
+    margin-left: 1px;
+    margin-top: -2.5px
+}
