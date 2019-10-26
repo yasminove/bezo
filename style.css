@@ -515,3 +515,10 @@ button {
     content: '\25CF';
     font-size: 200px;
 }
+
+.circle-1 {
+    float: right;
+    margin-right: 300px;
+    margin-top: 75px;
+    color: #fff;  
+}
