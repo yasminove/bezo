@@ -495,3 +495,11 @@ button {
     margin-left: 30px;
 
 }
+
+.circle:before {
+    content: '\25CF';
+    font-size: 100px;
+    margin-left: 550px;
+    margin-top: 120px;
+
+}
