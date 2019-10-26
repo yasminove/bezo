@@ -510,3 +510,8 @@ button {
     background-color: #f7f8fc;
     margin-top: -2px;
 }
+
+.circle:before {
+    content: '\25CF';
+    font-size: 200px;
+}
