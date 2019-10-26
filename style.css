@@ -503,3 +503,10 @@ button {
     margin-top: 120px;
 
 }
+
+.circles-wrapper {
+    width: 1280px;
+    height: 249px;
+    background-color: #f7f8fc;
+    margin-top: -2px;
+}
