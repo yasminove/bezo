@@ -488,3 +488,10 @@ button {
 .things-wrapper {
    margin-top: -195px;
 }
+
+.things {
+    width: 204px;
+    height: 188px;
+    margin-left: 30px;
+
+}
