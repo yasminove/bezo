@@ -610,3 +610,9 @@ cite {
     margin-left: 463px;
     margin-top: -100px;
 }
+
+.circle-1-1:before {
+    content: '\25CF';
+    font-size: 250px;
+    color: #000;
+}
