@@ -642,3 +642,11 @@ circle-2-3 {
     height:30px;
     border-radius: 50%;
 }
+
+.clients-girl-1 {
+     width: 100px;
+    height:100px;
+    margin-right: 45px;
+    margin-left: 45px;
+    border: 3px solid #21B3DC;
+}
