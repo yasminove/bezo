@@ -680,3 +680,12 @@ circle-2-3 {
     color: #fff;
     margin-left: 218px;
 }
+
+.contact-button {
+    color: #21B3DC;
+    background-color: #fff;
+    margin-top: 95px;
+    width: 100px;
+    float: left;
+    margin-left: -320px;
+}
