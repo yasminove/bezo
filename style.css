@@ -621,3 +621,8 @@ cite {
     float: left;
     margin-left: 590px;
 }
+
+.circle-2-2:before{
+    content: '\25CF';
+    font-size: 170px;
+}
