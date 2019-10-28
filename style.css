@@ -636,3 +636,9 @@ circle-2-3 {
     float: right;
     margin-left: 405px;
 }
+
+.client-sec {
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+}
