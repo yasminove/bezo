@@ -754,3 +754,9 @@ circle-2-3 {
     margin-top: -60px;
     color: #eee;
 }
+
+.heart {
+   float: left;
+    margin-left: 216px;
+    margin-top: -28px;
+}
