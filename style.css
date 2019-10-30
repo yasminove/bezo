@@ -760,3 +760,11 @@ circle-2-3 {
     margin-left: 216px;
     margin-top: -28px;
 }
+
+.heart-heading {
+    float: left;
+    margin-left: 211px;
+    margin-top: -32px;
+    color: grey;
+    font-weight: 300;
+}
