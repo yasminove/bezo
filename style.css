@@ -693,3 +693,10 @@ circle-2-3 {
 .project-heading {
     padding-top: 16px;
 }
+
+.todo {
+    width: 213px;
+    margin-top: -25px;
+    float: right;
+    margin-right: 314px;
+}
