@@ -714,3 +714,15 @@ circle-2-3 {
     margin-top: 72px;
     margin-left: 530px;
 }
+
+.left-box {
+    width: 405px;
+    height: 389px;
+    margin-top: -299px;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #eee;
+    box-shadow: 2px;
+    border-image: initial;
+    margin-left: 198px;
+}
