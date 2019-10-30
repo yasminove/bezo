@@ -700,3 +700,12 @@ circle-2-3 {
     float: right;
     margin-right: 314px;
 }
+
+.latest-news-div {
+    width: 1280px;
+    height: 526px;
+    color: azure;
+    background-color: rgb(247, 248, 252);
+    color: black;
+    margin-top: -75px;
+}
