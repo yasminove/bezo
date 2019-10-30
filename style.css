@@ -774,3 +774,9 @@ circle-2-3 {
     margin-left: 305px;
     margin-top: -28px;
 }
+
+.opened-folder {
+    float: left;
+       margin-left: 380px;
+    margin-top: -28px;
+}
