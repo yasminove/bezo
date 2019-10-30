@@ -726,3 +726,10 @@ circle-2-3 {
     border-image: initial;
     margin-left: 198px;
 }
+
+.left-box-heading {
+    margin-top: -181px;
+    margin-right: 130px;
+    margin-left: 224px;
+    float: left;
+}
