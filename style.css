@@ -689,3 +689,7 @@ circle-2-3 {
     float: left;
     margin-left: -320px;
 }
+
+.project-heading {
+    padding-top: 16px;
+}
