@@ -768,3 +768,9 @@ circle-2-3 {
     color: grey;
     font-weight: 300;
 }
+
+.comment {
+    float: left;
+    margin-left: 305px;
+    margin-top: -28px;
+}
