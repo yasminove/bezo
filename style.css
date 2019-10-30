@@ -739,3 +739,11 @@ circle-2-3 {
     margin-left: 220px;
     margin-top: -133px;
 }
+
+.read-more{
+    color: #21B3DC;
+    float: left;
+    margin-left: 220px;
+    margin-top: -82px;
+    font-weight: 400;
+}
