@@ -780,3 +780,11 @@ circle-2-3 {
        margin-left: 380px;
     margin-top: -28px;
 }
+
+.comment-heading {
+      float: left;
+    margin-left: 296px;
+    margin-top: -32px;
+    color: grey;
+    font-weight: 100;
+}
