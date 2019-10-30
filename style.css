@@ -788,3 +788,11 @@ circle-2-3 {
     color: grey;
     font-weight: 100;
 }
+
+.opened-folder-heading {
+    float: left;
+    margin-left: 372px;
+    margin-top: -31px;
+    color: grey;
+    font-weight: 100;
+}
